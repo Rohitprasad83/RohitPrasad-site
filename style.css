@@ -51,6 +51,9 @@ hr {
 
 .ow {
   background-color: var(--off-white);
+  border-radius: 0.5rem;
+  margin: 1rem auto;
+  padding: 1rem;
 }
 
 .secondary-link {
@@ -136,6 +139,7 @@ hr {
   text-align: center;
   color: white;
   border-top-right-radius: 1rem;
+  margin-top: 50px;
 }
 
 .footer .link {
